@@ -1,2 +1,2 @@
 # ReactLearning
-Udemy UI learning
+React learning from Udemy's Maximilian Schwarzmüller course
